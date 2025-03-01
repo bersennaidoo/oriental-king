@@ -1,6 +1,6 @@
 root = 12 images with logo and favicon
 
-chefs = 3 images
+Staff = 3 images
 
 testimonials = 4 images
 
@@ -9,6 +9,8 @@ gallery = 8 images
 menu = 6 + images and require prices and shot descriptions
 
 contact details
+
+email x etc...
 
 Oriental King
 10 Marbleray Dr, New Dawn Park, Newlands East, 4091, South Africa
