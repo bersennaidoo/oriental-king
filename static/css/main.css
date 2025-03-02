@@ -911,6 +911,8 @@ section,
   padding: 22px;
   block-size: 400px;
   background-color: #f2f2f2;
+  background-image: url(/img/book-a-table-bg.png);
+  background-repeat: no-repeat;
 }
 
 .about .book-a-table h3 {
