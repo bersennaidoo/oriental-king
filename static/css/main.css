@@ -903,15 +903,20 @@ section,
 }
 
 .about .book-a-table {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   border: 4px solid color-mix(in srgb, var(--default-color), transparent 30%);
   padding: 22px;
+  block-size: 400px;
+  background-color: #f2f2f2;
 }
 
 .about .book-a-table h3 {
   font-family: var(--default-font);
   margin: 0 0 0 0;
-  font-size: 24px;
+  font-size: 48px;
 }
 
 .about .book-a-table p {
