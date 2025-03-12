@@ -1661,3 +1661,7 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.menu-list {
+  list-style-type: none;
+}
